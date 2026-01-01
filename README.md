@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go
 - 💬 Ask me about C#, PHP, Laravel, Vue, JavaScript
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justinbezanson&theme=dark&show_icons=true&count_private=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justinbezanson&show_icons=true&theme=dark&locale=en&layout=compact" alt="justinbezanson" />
-</p>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
